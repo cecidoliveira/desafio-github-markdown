@@ -27,8 +27,11 @@
 
 ### Desafios Extras 🚀:
 
-- [ ] Autenticar utilizando algum método de segurança oferecido pelo Github.
-- [ ] Criar branches para o seu projeto e realizem merge das alterações.
+- [x] Autenticar utilizando algum método de segurança oferecido pelo Github.
+
+    [Sobre Tipos de Autenticação](https://github.com/cecidoliveira/desafio-github-markdown/blob/main/auths.md)
+
+- [x] Criar branches para o seu projeto e realizem merge das alterações.
 - [x] Treinar os comandos do Git.
     #### lista de alguns comandos basicos do git 
     - `git init` => iniciar um repositorio local 
