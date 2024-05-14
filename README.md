@@ -19,7 +19,7 @@
       
       `git clone https://github.com/cecidoliveira/desafio-github-markdown.git`
       
-    - Realizem alterações, Commits, abra issues e pull requests.
+    - Realizem alterações, Commits, abra issues e pull requests.✅
 
 - [x] Formatação com Markdown
     - Edite o arquivo "README.md" em seu repositório. ✅
